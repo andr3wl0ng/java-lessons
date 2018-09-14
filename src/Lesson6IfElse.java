@@ -4,12 +4,10 @@ public class Lesson6IfElse {
         int  myInt =15;
         if (myInt<10){
             System.out.println("Yes");
-        } else{
+        } else {
             System.out.println("No");
+        }
 
-
-
-//
 //        int  myInt =15;
 //        if (myInt<10){
 //            System.out.println("Yes");
@@ -18,5 +16,5 @@ public class Lesson6IfElse {
 //        } else {
 //            System.out.println("done");
 //        }
-//    }
-//}
+    }
+}
