@@ -2,19 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="286f99dc-ef64-4f18-b7c8-28e23ec13bd6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/Lessons/Lesson8DoWhile.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson7Scanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson8DoWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson9BreakContinue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lessons/Lesson7Scanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lessons/Lesson7Scanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson1HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson1HelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson2Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson2Variables.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson3Strings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson3Strings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson4CycleWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson4CycleWhile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson5CycleFOR.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson5CycleFOR.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson6IfElse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson6IfElse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson7Scanner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/Lesson1HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/Lesson2Variables.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/Lesson3Strings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/Lesson4CycleWhile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/Lesson5CycleFOR.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/Lesson6IfElse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/Lesson7Scanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lessons/Lesson8DoWhile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Lesson9BreakContinue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson9BreakContinue.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,7 +38,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/Lesson8DoWhile.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -49,8 +46,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Lesson9BreakContinue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+            <state relative-caret-position="340">
+              <caret line="20" column="50" selection-start-line="20" selection-start-column="50" selection-end-line="20" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -94,7 +91,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Lesson5CycleFOR.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7">
+            <state relative-caret-position="34">
               <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
@@ -103,7 +100,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Lesson6IfElse.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7">
+            <state relative-caret-position="34">
               <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
@@ -134,6 +131,7 @@
         <option value="$PROJECT_DIR$/src/Lesson8BreackContinue.java" />
         <option value="$PROJECT_DIR$/src/Lesson8DoWhile.java" />
         <option value="$PROJECT_DIR$/src/main/java/Lesson7Scanner.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Lesson9BreakContinue.java" />
       </list>
     </option>
   </component>
@@ -175,13 +173,6 @@
             </path>
             <path>
               <item name="javaLessons" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaLessons" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaLessons" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -217,14 +208,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Lesson8DoWhile">
-    <configuration name="Lesson1HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.Lesson1HelloWorld" />
-      <module name="Lessons" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lesson9BreakContinue">
     <configuration name="Lesson2Variables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.java.Lesson2Variables" />
       <module name="Lessons" />
@@ -253,20 +237,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lesson9BreakContinue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.Lesson9BreakContinue" />
+      <module name="Lessons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Lesson1HelloWorld" />
       <item itemvalue="Application.Lesson2Variables" />
       <item itemvalue="Application.Lesson4CycleWhile" />
       <item itemvalue="Application.Lesson7Scanner" />
       <item itemvalue="Application.Lesson8DoWhile" />
+      <item itemvalue="Application.Lesson9BreakContinue" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lesson9BreakContinue" />
         <item itemvalue="Application.Lesson8DoWhile" />
         <item itemvalue="Application.Lesson7Scanner" />
         <item itemvalue="Application.Lesson4CycleWhile" />
         <item itemvalue="Application.Lesson2Variables" />
-        <item itemvalue="Application.Lesson1HelloWorld" />
       </list>
     </recent_temporary>
   </component>
@@ -285,7 +282,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5729000" />
+    <option name="totallyTimeSpent" value="6557000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -300,7 +297,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4991708" visible="true" weight="0.24413647" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4991708" visible="true" weight="0.24413647" />
       <window_info id="Structure" order="1" sideWeight="0.50082916" side_tool="true" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -309,14 +306,14 @@
       <window_info id="Favorites" order="6" sideWeight="0.50082916" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="Messages" order="12" />
@@ -403,20 +400,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson5CycleFOR.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson6IfElse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Lesson7Scanner.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -427,14 +410,28 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/Lesson8DoWhile.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson6IfElse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson5CycleFOR.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Lesson9BreakContinue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+        <state relative-caret-position="340">
+          <caret line="20" column="50" selection-start-line="20" selection-start-column="50" selection-end-line="20" selection-end-column="50" />
         </state>
       </provider>
     </entry>
