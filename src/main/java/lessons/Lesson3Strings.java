@@ -1,4 +1,4 @@
-package main.java;
+package lessons;
 
 import javax.xml.bind.SchemaOutputResolver;
 

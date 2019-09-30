@@ -1,4 +1,4 @@
-package main.app.figures;
+package application.figures;
 
 import java.util.Scanner;
 
@@ -10,15 +10,15 @@ public class FigureDrawing {
     private char fChar;
 
 
-   public  void ScannerForFigure(){
-       Scanner emptySquareScan = new Scanner(System.in);
-       System.out.println("input the size of figure: ");
-       size = emptySquareScan.nextInt();
+    public  void ScannerForFigure(){
+        Scanner emptySquareScan = new Scanner(System.in);
+        System.out.println("input the size of figure: ");
+        size = emptySquareScan.nextInt();
 
-       Scanner selectChar = new Scanner(System.in);
-       System.out.println("input the char for drawing: ");
-       fChar = selectChar.next().charAt(0);
-   }
+        Scanner selectChar = new Scanner(System.in);
+        System.out.println("input the char for drawing: ");
+        fChar = selectChar.next().charAt(0);
+    }
 
 
     public void Square(){
@@ -36,7 +36,7 @@ public class FigureDrawing {
 
 
     public void EmptySquare() {
-       for (int i = 0; i < size; i++){
+        for (int i = 0; i < size; i++){
             for (int j = 0; j < size; j++){
                 if (i == 0 || i==size-1 || j==0 || j==size-1){
                     System.out.print(fChar+" ");
@@ -55,5 +55,3 @@ public class FigureDrawing {
 
     }
 }
-
-

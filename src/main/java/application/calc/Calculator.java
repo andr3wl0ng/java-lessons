@@ -1,4 +1,5 @@
-package main.app.calc;
+package application.calc;
+
 import java.util.Scanner;
 
 public class Calculator {

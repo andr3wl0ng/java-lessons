@@ -1,4 +1,4 @@
-package main.java;
+package lessons;
 
 public class Lesson4CycleWhile {
     public static void main(String[] args) {

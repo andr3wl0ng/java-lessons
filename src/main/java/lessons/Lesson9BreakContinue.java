@@ -1,4 +1,4 @@
-package main.java;
+package lessons;
 
 public class Lesson9BreakContinue {
     public static void main (String [] args){

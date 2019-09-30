@@ -1,4 +1,4 @@
-package main.java;// Variables type and kinds
+package lessons;// Variables type and kinds
 import java.util.Scanner;
 
 

@@ -1,4 +1,4 @@
-package main.java;//first program hello world
+package lessons;//first program hello world
 
 public class Lesson1HelloWorld {
     public static void main(String [] args){

@@ -1,4 +1,4 @@
-package main.app.figures;
+package application.figures;
 
 public class Main {
     public static void main(String[] args) {
