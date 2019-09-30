@@ -36,7 +36,7 @@ public class Calculator {
             operation = scanner.next().charAt(0);
         } else {
             System.out.println("Invalid input, Please input number");
-            scanner.next();//рекурсия
+            scanner.next();//rrr
             operation = getOperation();
         }
         return operation;
@@ -59,7 +59,7 @@ public class Calculator {
                 result = number1 / number2;
                 break;
             default:
-                System.out.println("Операция не распознана. Повторите ввод.");
+                System.out.println("Operation is not valid. Please input correct operation '+', '-', '*', '/'");
                 result = getResult(number1, number2, getOperation());
         }
         return result;
