@@ -1,5 +1,4 @@
-package application.figures;
-
+package main.java.application.figures;
 import java.util.Scanner;
 
 

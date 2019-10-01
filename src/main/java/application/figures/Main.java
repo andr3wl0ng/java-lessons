@@ -1,4 +1,5 @@
-package application.figures;
+package main.java.application.figures;
+
 
 public class Main {
     public static void main(String[] args) {
@@ -12,7 +13,7 @@ public class Main {
         newScannerForFigure.EmptySquare();
 
 //        FigureDrawing newObjectEmptyTriangle = new FigureDrawing();
-//        newObjectEmptyTriangle.EmptyTriangle();
+        newScannerForFigure.Triangle();
     }
 
 }
