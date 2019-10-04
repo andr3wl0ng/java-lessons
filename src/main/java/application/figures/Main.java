@@ -1,4 +1,4 @@
-package main.java.application.figures;
+package application.figures;
 
 
 public class Main {

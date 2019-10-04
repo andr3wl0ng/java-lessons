@@ -2,24 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="286f99dc-ef64-4f18-b7c8-28e23ec13bd6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/application/loops/ForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/application/loops/InfiniteLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/application/loops/LoopsWithAnB.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lessons/main/app/calc/Calculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lessons/main/app/figures/FigureDrawing.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lessons/main/app/figures/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lessons/main/java/Lesson10Switch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lessons/main/java/Lesson14ClassesAndObjects.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lessons/main/java/Lesson1HelloWorld.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lessons/main/java/Lesson2Variables.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lessons/main/java/Lesson3Strings.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lessons/main/java/Lesson4CycleWhile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lessons/main/java/Lesson5CycleFOR.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lessons/main/java/Lesson6IfElse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lessons/main/java/Lesson7Scanner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lessons/main/java/Lesson8DoWhile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lessons/main/java/Lesson9BreakContinue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessons.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/application/figures/FigureDrawing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/figures/FigureDrawing.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/application/figures/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/figures/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lessons/Lesson14ClassesAndObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lessons/Lesson14ClassesAndObjects.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,37 +33,6 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/lessons/Lesson14ClassesAndObjects.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/application/figures/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="35" lean-forward="true" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/application/figures/FigureDrawing.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="56" column="38" lean-forward="true" selection-start-line="56" selection-start-column="38" selection-end-line="56" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -90,21 +48,6 @@
       </map>
     </option>
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/main/java/application/figures/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lessons/Lesson14ClassesAndObjects.java" />
-        <option value="$PROJECT_DIR$/src/main/java/application/figures/FigureDrawing.java" />
-      </list>
-    </option>
-  </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand />
-      <select />
-    </treeState>
-  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
@@ -112,78 +55,6 @@
     <option name="height" value="1056" />
   </component>
   <component name="ProjectId" id="1RWFlmf9kBXR3mRo4CGOeTk9F5M" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="javaLessons" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaLessons" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaLessons" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaLessons" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaLessons" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaLessons" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaLessons" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaLessons" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaLessons" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaLessons" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="application" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaLessons" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaLessons" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="application" type="462c0819:PsiDirectoryNode" />
-              <item name="calc" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaLessons" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaLessons" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="application" type="462c0819:PsiDirectoryNode" />
-              <item name="figures" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaLessons" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaLessons" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lessons" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
-  </component>
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
@@ -217,13 +88,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
-    <configuration name="CCC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.app.calc.CCC" />
+  <component name="RunManager" selected="Application.ForLoop">
+    <configuration name="ForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="application.loops.ForLoop" />
       <module name="Lessons" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.app.calc.*" />
+          <option name="PATTERN" value="application.loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -231,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.app.calc.Calculator" />
+    <configuration name="Loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="application.loops.Loops" />
       <module name="Lessons" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.app.calc.*" />
+          <option name="PATTERN" value="application.loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -244,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DrawingFigures" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.app.figures.DrawingFigures" />
+    <configuration name="LoopsWithAnB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="application.loops.LoopsWithAnB" />
       <module name="Lessons" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.app.figures.*" />
+          <option name="PATTERN" value="application.loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -284,21 +155,31 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.CCC" />
-      <item itemvalue="Application.Calculator" />
-      <item itemvalue="Application.DrawingFigures" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Loops" />
+      <item itemvalue="Application.LoopsWithAnB" />
+      <item itemvalue="Application.ForLoop" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ForLoop" />
+        <item itemvalue="Application.LoopsWithAnB" />
+        <item itemvalue="Application.Loops" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.DrawingFigures" />
-        <item itemvalue="Application.Calculator" />
-        <item itemvalue="Application.CCC" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand />
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -317,9 +198,6 @@
     </task>
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3533000" />
-  </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
@@ -328,41 +206,6 @@
       <are-packages-shown value="true" />
       <is-autoscroll-to-source value="true" />
     </todo-panel>
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info id="Designer" order="0" />
-      <window_info id="UI Designer" order="1" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49888888" visible="true" weight="0.25" />
-      <window_info id="Structure" order="6" sideWeight="0.5011111" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="1" />
-      <window_info anchor="bottom" id="Terminal" order="2" />
-      <window_info anchor="bottom" id="Database Changes" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="5" />
-      <window_info anchor="bottom" id="Find" order="6" />
-      <window_info anchor="bottom" id="Run" order="7" weight="0.33666667" />
-      <window_info active="true" anchor="bottom" id="Debug" order="8" visible="true" weight="0.31666666" />
-      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="10" />
-      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="12" />
-      <window_info anchor="right" id="Theme Preview" order="0" />
-      <window_info anchor="right" id="Database" order="1" />
-      <window_info anchor="right" id="Capture Analysis" order="2" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info anchor="right" id="Maven" order="4" weight="0.32995737" />
-      <window_info anchor="right" id="Palette" order="5" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
-    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -373,12 +216,6 @@
         <entry key="MAIN">
           <value>
             <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
               <option name="COLUMN_ORDER" />
             </State>
           </value>
@@ -426,28 +263,5 @@
     <SUITE FILE_PATH="coverage/java_lessons$Calculator.ic" NAME="Calculator Coverage Results" MODIFIED="1569786463597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>main.app.calc.*</FILTER>
     </SUITE>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/lessons/Lesson14ClassesAndObjects.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/application/figures/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="35" lean-forward="true" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/application/figures/FigureDrawing.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="56" column="38" lean-forward="true" selection-start-line="56" selection-start-column="38" selection-end-line="56" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>
