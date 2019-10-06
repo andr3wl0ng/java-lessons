@@ -5,8 +5,6 @@ public class Arrays {
         int [] arrayName = new int[10];
         for (int i = 0; i <arrayName.length ; i++) {
             System.out.println(arrayName[i]);
-
-
         }
     }
 }
